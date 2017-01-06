@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+highlighter: rouge
 title: Today I Learned
 description: A small list of things I've learned each day
